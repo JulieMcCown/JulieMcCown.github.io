@@ -1,0 +1,525 @@
+#body{
+	<!--background-image:url(dismal_swamp.jpg);
+	<!--background-position: top 0px;
+	background-color: #8FBC8F;
+	height:800px;
+}
+
+#navigation {
+font-family: 'Gentium Book Basic', serif;
+letter-spacing: .5px;
+width: 1070px;
+background: #FAFAD2;
+padding-top: 1px;
+padding-bottom: 1px;
+border-top: 3px solid #006400;
+border-bottom: 3px solid #006400;
+border-left: 3px solid #006400;
+border-right: 3px solid #006400;
+}
+
+#body_1{
+	<!--background-image:url(p_wheatley1.png);
+	<!--background-repeat: no-repeat;
+	<!--background-position: top center;
+	height: 900px;
+	background-color: #8FBC8F;
+	}
+
+#title_container_1{
+	font-family: 'Gentium Book Basic', serif;
+	letter-spacing: .6px;
+	line-height: 1.4;
+	height: 130px;
+	width: 1100px;
+	position: relative;
+	top: 10px;
+	left:20px;
+	text-align:left;
+}
+
+#timeline {
+position: relative;
+left: 3px;
+top: 15px;
+height: 667px;
+}
+
+#intro {
+font-family: 'Gentium Book Basic', serif;
+position: relative;
+
+		width: 650px;
+		height: 1100px;
+		padding-top: 15px;
+		padding-left: 50px;
+		top: 60px;
+		bottom: 10px;
+		left: 100px;
+		padding-right:30px;
+		background: #FAFAD2;
+		letter-spacing: .5px;
+		line-height: 1.4;
+
+		border-top: 4px solid #FFEC8B;
+		border-bottom: 4px solid #FFEC8B;
+		border-left: 4px solid #FFEC8B;
+		border-right: 4px solid #FFEC8B;
+
+	}
+
+#bartram_flower{
+position: absolute;
+top: 15px;
+left:1115px;
+border-top: 15px solid #FFF68F;
+border-bottom: 15px solid #FFF68F;
+border-left: 15px solid #FFF68F;
+border-right: 15px solid #FFF68F;
+
+}
+#bartram_3{
+position: absolute;
+top: 1150px;
+left: 900px;
+border-top: 10px solid #FFEC8B;
+border-bottom: 10px solid #FFEC8B;
+border-left: 10px solid #FFEC8B;
+border-right: 10px solid #FFEC8B;
+
+}
+#end{
+	height: 50px;
+	position: relative;
+	top: 50px;
+	}
+
+#title_container_2{
+	font-family: 'Gentium Book Basic', serif;
+	letter-spacing: .6px;
+	line-height: 1.4;
+	height: 40px;
+	width: 1100px;
+	position: relative;
+	top: 10px;
+	left:20px;
+	text-align:left;
+}
+
+#container_2 {
+font-family: 'Gentium Book Basic', serif;
+position: relative;
+		top: 50px;
+		left:50px;
+		width: 600px;
+		height: 1955px;
+		padding-top: 5px;
+		padding-left: 30px;
+		padding-right:30px;
+		background: #FFFFF2;
+		letter-spacing: .5px;
+		line-height: 1.4;
+
+		border-top: 4px solid #FFEC8B;
+		border-bottom: 4px solid #FFEC8B;
+		border-left: 4px solid #FFEC8B;
+		border-right: 4px solid #FFEC8B;
+}
+
+#flower_paradise{
+position: absolute;
+top: 400px;
+left:800px;
+border-top: 10px solid #FFEC8B;
+border-bottom: 10px solid #FFEC8B;
+border-left: 10px solid #FFEC8B;
+border-right: 10px solid #FFEC8B;
+}
+
+#eden{
+position: absolute;
+top: 1250px;
+left:800px;
+border-top: 10px solid #FFEC8B;
+border-bottom: 10px solid #FFEC8B;
+border-left: 10px solid #FFEC8B;
+border-right: 10px solid #FFEC8B;
+}
+
+
+#title_container_3{
+	font-family: 'Gentium Book Basic', serif;
+	letter-spacing: .6px;
+	line-height: 1.4;
+	height: 40px;
+	width: 1100px;
+	position: relative;
+	top: 10px;
+	left:20px;
+	text-align:left;
+}
+
+#container_3 {
+font-family: 'Gentium Book Basic', serif;
+position: relative;
+		top: 50px;
+		left:50px;
+		width: 600px;
+		height: 2080px;
+		padding-top: 5px;
+		padding-left: 30px;
+		padding-right:30px;
+		background: #FFFFF2;
+		letter-spacing: .5px;
+		line-height: 1.4;
+
+		border-top: 4px solid #FFEC8B;
+		border-bottom: 4px solid #FFEC8B;
+		border-left: 4px solid #FFEC8B;
+		border-right: 4px solid #FFEC8B;
+}
+
+#title_container_letter{
+	font-family: 'Gentium Book Basic', serif;
+	letter-spacing: .6px;
+	line-height: 1.4;
+	height: 40px;
+	width: 1100px;
+	position: relative;
+	top: 10px;
+	left:20px;
+	text-align:left;
+}
+
+#container_letter {
+font-family: 'Gentium Book Basic', serif;
+position: relative;
+		top: 50px;
+		left:50px;
+		width: 600px;
+		height: 725px;
+		padding-top: 5px;
+		padding-left: 30px;
+		padding-right:30px;
+		background: #FFFFF2;
+		letter-spacing: .5px;
+		line-height: 1.4;
+
+		border-top: 4px solid #FFEC8B;
+		border-bottom: 4px solid #FFEC8B;
+		border-left: 4px solid #FFEC8B;
+		border-right: 4px solid #FFEC8B;
+}
+
+#para_1{
+text-align: right;
+padding-right: 105px;
+}
+
+#para_2{
+padding-left: 30px;
+}
+
+#para_3{
+text-align: right;
+padding-right: 125px;
+}
+#para_4{
+font-size: small;
+}
+
+#lloyd_harbor{
+position: absolute;
+top: 300px;
+left:750px;
+border-top: 10px solid #FFEC8B;
+border-bottom: 10px solid #FFEC8B;
+border-left: 10px solid #FFEC8B;
+border-right: 10px solid #FFEC8B;
+}
+
+#banneker_anatomy{
+position: absolute;
+top: 850px;
+left:770px;
+border-top: 10px solid #FFEC8B;
+border-bottom: 10px solid #FFEC8B;
+border-left: 10px solid #FFEC8B;
+border-right: 10px solid #FFEC8B;
+}
+
+#title_container_4{
+	font-family: 'Gentium Book Basic', serif;
+	letter-spacing: .6px;
+	line-height: 1.4;
+	height: 40px;
+	width: 1100px;
+	position: relative;
+	top: 10px;
+	left:20px;
+	text-align:left;
+}
+
+#container_4 {
+font-family: 'Gentium Book Basic', serif;
+position: relative;
+		top: 50px;
+		left:50px;
+		width: 600px;
+		height: 1900px;
+		padding-top: 5px;
+		padding-left: 30px;
+		padding-right:30px;
+		background: #FFFFF2;
+		letter-spacing: .5px;
+		line-height: 1.4;
+
+		border-top: 4px solid #FFEC8B;
+		border-bottom: 4px solid #FFEC8B;
+		border-left: 4px solid #FFEC8B;
+		border-right: 4px solid #FFEC8B;
+}
+
+#farm_plough{
+position: absolute;
+top: 300px;
+left:800px;
+border-top: 10px solid #FFEC8B;
+border-bottom: 10px solid #FFEC8B;
+border-left: 10px solid #FFEC8B;
+border-right: 10px solid #FFEC8B;
+}
+
+#wheatley{
+position: absolute;
+top: 900px;
+left:800px;
+border-top: 10px solid #FFEC8B;
+border-bottom: 10px solid #FFEC8B;
+border-left: 10px solid #FFEC8B;
+border-right: 10px solid #FFEC8B;
+}
+
+#title_container_5{
+	font-family: 'Gentium Book Basic', serif;
+	letter-spacing: .6px;
+	line-height: 1.4;
+	height: 40px;
+	width: 1100px;
+	position: relative;
+	top: 10px;
+	left:20px;
+	text-align:left;
+}
+
+#container_5 {
+font-family: 'Gentium Book Basic', serif;
+position: relative;
+		top: 50px;
+		left:50px;
+		width: 600px;
+		height: 1880px;
+		padding-top: 5px;
+		padding-left: 30px;
+		padding-right:30px;
+		background: #FFFFF2;
+		letter-spacing: .5px;
+		line-height: 1.4;
+
+		border-top: 4px solid #FFEC8B;
+		border-bottom: 4px solid #FFEC8B;
+		border-left: 4px solid #FFEC8B;
+		border-right: 4px solid #FFEC8B;
+}
+
+#bartram_indian_2{
+position: absolute;
+top: 300px;
+left:800px;
+border-top: 10px solid #FFEC8B;
+border-bottom: 10px solid #FFEC8B;
+border-left: 10px solid #FFEC8B;
+border-right: 10px solid #FFEC8B;
+}
+
+#woods_1{
+position: absolute;
+top: 1000px;
+left:800px;
+border-top: 10px solid #FFEC8B;
+border-bottom: 10px solid #FFEC8B;
+border-left: 10px solid #FFEC8B;
+border-right: 10px solid #FFEC8B;
+}
+#bartram_map{
+position: absolute;
+top: 1500px;
+left:800px;
+border-top: 10px solid #FFEC8B;
+border-bottom: 10px solid #FFEC8B;
+border-left: 10px solid #FFEC8B;
+border-right: 10px solid #FFEC8B;
+}
+
+
+
+#title_container_6{
+	font-family: 'Gentium Book Basic', serif;
+	letter-spacing: .6px;
+	line-height: 1.4;
+	height: 40px;
+	width: 1100px;
+	position: relative;
+	top: 10px;
+	left:20px;
+	text-align:left;
+}
+
+#container_6{
+font-family: 'Gentium Book Basic', serif;
+position: relative;
+		top: 50px;
+		left:50px;
+		width: 600px;
+		height: 1570px;
+		padding-top: 5px;
+		padding-left: 30px;
+		padding-right:30px;
+		background: #FFFFF2;
+		letter-spacing: .5px;
+		line-height: 1.4;
+
+		border-top: 4px solid #FFEC8B;
+		border-bottom: 4px solid #FFEC8B;
+		border-left: 4px solid #FFEC8B;
+		border-right: 4px solid #FFEC8B;
+}
+
+#lewis_clark_indians{
+position: absolute;
+top: 300px;
+left:800px;
+border-top: 10px solid #FFEC8B;
+border-bottom: 10px solid #FFEC8B;
+border-left: 10px solid #FFEC8B;
+border-right: 10px solid #FFEC8B;
+}
+
+#lewis_clark_river{
+position: absolute;
+top: 700px;
+left:770px;
+border-top: 10px solid #FFEC8B;
+border-bottom: 10px solid #FFEC8B;
+border-left: 10px solid #FFEC8B;
+border-right: 10px solid #FFEC8B;
+}
+
+#lewis_clark_fish{
+position: absolute;
+top: 1200px;
+left:850px;
+border-top: 10px solid #FFEC8B;
+border-bottom: 10px solid #FFEC8B;
+border-left: 10px solid #FFEC8B;
+border-right: 10px solid #FFEC8B;
+}
+
+#title_container_about{
+	font-family: 'Gentium Book Basic', serif;
+	letter-spacing: .6px;
+	line-height: 1.4;
+	height: 40px;
+	width: 1100px;
+	position: relative;
+	top: 10px;
+	left:20px;
+	text-align:left;
+}
+
+#container_about{
+font-family: 'Gentium Book Basic', serif;
+position: relative;
+		top: 50px;
+		left:50px;
+		width: 600px;
+		height: 1755px;
+		padding-top: 5px;
+		padding-left: 30px;
+		padding-right:30px;
+		background: #FFFFF2;
+		letter-spacing: .5px;
+		line-height: 1.4;
+
+		border-top: 4px solid #FFEC8B;
+		border-bottom: 4px solid #FFEC8B;
+		border-left: 4px solid #FFEC8B;
+		border-right: 4px solid #FFEC8B;
+}
+
+#flowers_2{
+position: absolute;
+top: 350px;
+left:800px;
+border-top: 10px solid #FFEC8B;
+border-bottom: 10px solid #FFEC8B;
+border-left: 10px solid #FFEC8B;
+border-right: 10px solid #FFEC8B;
+}
+
+#flowers_1{
+position: absolute;
+top: 1000px;
+left:800px;
+border-top: 10px solid #FFEC8B;
+border-bottom: 10px solid #FFEC8B;
+border-left: 10px solid #FFEC8B;
+border-right: 10px solid #FFEC8B;
+}
+
+#title_container_7{
+	font-family: 'Gentium Book Basic', serif;
+	letter-spacing: .6px;
+	line-height: 1.4;
+	height: 40px;
+	width: 1100px;
+	position: relative;
+	top: 10px;
+	left:20px;
+	text-align:left;
+}
+
+#container_7{
+font-family: 'Gentium Book Basic', serif;
+position: relative;
+		top: 50px;
+		left:50px;
+		width: 600px;
+		height: 3700px;
+		padding-top: 5px;
+		padding-left: 30px;
+		padding-right:30px;
+		background: #FFFFF2;
+		letter-spacing: .5px;
+		line-height: 1.4;
+
+		border-top: 4px solid #FFEC8B;
+		border-bottom: 4px solid #FFEC8B;
+		border-left: 4px solid #FFEC8B;
+		border-right: 4px solid #FFEC8B;
+}
+
+a:link {
+	COLOR: black;
+	}
+a:visited {
+	COLOR: #990066;
+	}
+a:hover {
+	COLOR: green;
+	}
+
+li{
+	list-style-type:none;
+	display:inline;
+	}
